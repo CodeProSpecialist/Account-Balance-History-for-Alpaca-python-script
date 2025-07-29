@@ -1,6 +1,4 @@
-
-
-
+This python script shows your account balance history for Alpaca. 
 
 
 In the Ubuntu Linux Operating System, 
